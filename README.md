@@ -1,8 +1,8 @@
-# Deloitte Data Analytics Virtual Internship
+# Deloitte Data Analytics Virtual Experience
 
-This repository contains my completed project files for the Deloitte Data Analytics Virtual Internship hosted on Forage. 
+This repository contains my completed project files for the Deloitte Data Analytics Virtual Experience hosted on Forage. 
 
-The internship simulates real-world data analytics challenges faced by Deloitte consultants, focusing on operations optimization and corporate compliance.
+The program simulates real-world data analytics challenges faced by Deloitte consultants, focusing on operations optimization and corporate compliance.
 
 ---
 
