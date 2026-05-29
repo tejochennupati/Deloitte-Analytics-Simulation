@@ -1,6 +1,6 @@
-# Deloitte Data Analytics Virtual Experience
+# Deloitte Analytics simulation
 
-This repository contains my completed project files for the Deloitte Data Analytics Virtual Experience hosted on Forage. 
+This repository contains my completed project files for the Deloitte Data Analytics simulation hosted on Forage. 
 
 The program simulates real-world data analytics challenges faced by Deloitte consultants, focusing on operations optimization and corporate compliance.
 
