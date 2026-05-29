@@ -29,4 +29,4 @@ The internship simulates real-world data analytics challenges faced by Deloitte 
 * **Data Visualizations:** Tableau Desktop
 * **Data Manipulation & Auditing:** Microsoft Excel
 * **Version Control:** GitHub
-*
+
